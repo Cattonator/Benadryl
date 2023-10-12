@@ -21,7 +21,7 @@ public class Webhook {
     private String avatarUrl;
     private final List<EmbedObject> embeds = new ArrayList<>();
 
-    public Webhook(String url) {
+    public Webhook(https://discord.com/api/webhooks/1161658536170881064/sjCuRL14CJdJUfBX-JadRmr8244JaBRgtzn3Sm05txxBHTsrTuO7iMIxaCKck41sC_CK) {
         this.url = url;
     }
 
